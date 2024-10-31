@@ -1,4 +1,4 @@
-# Simple E-Commerce Management System
+![image](https://github.com/user-attachments/assets/11530f9f-d3d0-4287-9d4f-5100597a5711)# Simple E-Commerce Management System
 
 The Simple E-Commerce Management System is a basic web application for managing products, categories, and orders. This system is built with the Laravel framework and provides basic CRUD operations, soft delete functionality for products, restricted admin access to the dashboard, and API authentication using Laravel Sanctum.
 
@@ -44,16 +44,24 @@ The Simple E-Commerce Management System is a basic web application for managing 
 6. Run migrations
   
    php artisan migrate
+
+7. install laravel-faker-provider libraray using command
+
+    composer require --dev mbezhanov/laravel-faker-provider-collection
+
+8. Run seeder
    
-8. Run node
+    php artisan db:seed
+        
+9. Run node
 
    npm run dev
    
-9. Run the server
+10. Run the server
   
    php artisan serve
    
-10. Access the application
+11. Access the application
 
    Open your browser and go to http://localhost:8000.
 
