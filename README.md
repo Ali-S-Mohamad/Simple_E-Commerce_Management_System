@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/11530f9f-d3d0-4287-9d4f-5100597a5711)# Simple E-Commerce Management System
+# Simple E-Commerce Management System
 
 The Simple E-Commerce Management System is a basic web application for managing products, categories, and orders. This system is built with the Laravel framework and provides basic CRUD operations, soft delete functionality for products, restricted admin access to the dashboard, and API authentication using Laravel Sanctum.
 
